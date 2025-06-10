@@ -1,6 +1,6 @@
 # Matematica 2 - 3° ano E.M.
 
-# Programação II com prof:Claudio
+## Programação II com prof:Claudio
 
 Este diretório está reservado para programação de extrema qualidade, qualquer um que falar outra coisa é um...
 
