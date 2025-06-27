@@ -21,7 +21,7 @@ body {
 }
 
 img {
-      border-radius: 20%;
+      border-radius: 2%;
 }
 .titulo-principal {
     font-family: var(--roboto-mono);
