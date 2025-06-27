@@ -20,6 +20,9 @@ body {
     font-family: var(--roboto);
 }
 
+img {
+      border-radius: 20%;
+}
 .titulo-principal {
     font-family: var(--roboto-mono);
     font-size: 32px;
